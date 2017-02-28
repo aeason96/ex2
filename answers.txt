@@ -1,0 +1,16 @@
+2.1)
+2.2) /home/majors/aeason96/node-v4.3.0/out/Release
+2.3)    -ldl tells the linker to link the dynamic linker library.  https://docs.oracle.com/cd/E19683-01/816-0218/6m6nirqld/index.html
+	-lrt links librt, which provides many of the interfaces
+	specified by the POSIX.lb https://docs.oracle.com/cd/E36784_01/html/E36873/librt-3lib.html
+	-lm tells gcc to link the math libraryhttp://www.unix.com/man-page/All/3lib/libm/
+2.5) 365
+2.6) 59272
+2.7) a. s23_clnt.o, crt1.o
+     b. node.o
+2.8) 
+
+3) double a = 4.784986753082311599079758529393e-308;
+
+4.1 libselinux.so.1
+4.2 /lib64/libselinux.so.1
